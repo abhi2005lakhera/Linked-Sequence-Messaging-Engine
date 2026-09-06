@@ -1,4 +1,4 @@
-# TalkToMe
+# Messaging Engine
 
 TalkToMe is a real-time chat application built with a React frontend and a Node.js/Express backend, using MongoDB for data storage and Socket.IO for real-time messaging.
 
